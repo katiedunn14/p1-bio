@@ -1,7 +1,15 @@
 /* Your Website Styles */
-
-
+h1 {
+	color: #602054;
+	font-family: 'Bitter', serif;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+body{
+	background: #80A437;
+}
+
+/* I like the color #8E2F8C */
