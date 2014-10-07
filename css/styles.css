@@ -2,6 +2,10 @@
 h1 {
 	color: #602054;
 	font-family: 'Bitter', serif;
+	width: 200px;
+	padding: 10px;
+	border: 10px solid #80A437;
+	margin: 0px 0px 0px 100px;
 }
 /* Show Grid */
 .showgrid {
