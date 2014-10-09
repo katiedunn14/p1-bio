@@ -17,3 +17,13 @@ body{
 }
 
 /* I like the color #8E2F8C and #80A437  */
+
+h3 {
+	color: #602054;
+	font-family: 'Bitter', serif;
+	width: 200px;
+	padding: 10px;
+	margin: 0px 0px 0px 100px;
+	font-position: center;
+
+}
