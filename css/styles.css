@@ -2,10 +2,10 @@
 h1 {
 	color: #8A2626;
 	font-family: 'Bitter', serif;
-	width: 200px;
-	padding: 10px;
-
-	margin: 0px 0px 0px 100px;
+	width: 99%;
+	padding: 10px 0px 10px 10px;
+	background: #A8A8B2;
+	margin: 0px 0px 0px 0px;
 }
 /* Show Grid */
 .showgrid {
@@ -18,7 +18,7 @@ body{
 
 /* I like the color #8E2F8C and #80A437  */
 
-h3 {
+h2 {
 	color: #8A2626;
 	font-family: 'Bitter', serif;
 	width: 200px;
@@ -30,7 +30,6 @@ h3 {
 
 a:link {
 	list-style:none;
-	color: #000;
 }
 
 
@@ -38,10 +37,10 @@ ul {
 	list-style:none;
 }
 
-.me { 
-position: fixed;
-padding-left: 225px;
+#me { 
+padding: 20px 0px 20px 20px;
 }
 
-h1 { 
-	background: #A8887D;}
+#box {
+	background:;
+}
