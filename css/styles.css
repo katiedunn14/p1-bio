@@ -4,7 +4,7 @@ h1 {
 	font-family: 'Bitter', serif;
 	width: 200px;
 	padding: 10px;
-	border: 10px solid #80A437;
+
 	margin: 0px 0px 0px 100px;
 }
 /* Show Grid */
@@ -25,4 +25,11 @@ h3 {
 	padding: 10px;
 	margin: 0px 0px 0px 100px;
 	font-position: center;
+}
+
+	border: 10px solid #80A437;
+
+ul {
+	list-style:none;
+text-decoration:none;
 }
