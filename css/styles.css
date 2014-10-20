@@ -27,8 +27,6 @@ h3 {
 	font-position: center;
 }
 
-	border: 10px solid #80A437;
-
 
 a:link {
 	list-style:none;
@@ -44,3 +42,6 @@ ul {
 position: fixed;
 padding-left: 225px;
 }
+
+h1 { 
+	background: #A8887D;}
