@@ -1,6 +1,6 @@
 /* Your Website Styles */
 h1 {
-	color: #602054;
+	color: #8A2626;
 	font-family: 'Bitter', serif;
 	width: 200px;
 	padding: 10px;
@@ -13,13 +13,13 @@ h1 {
 }
 
 body{
-	background: url("../img/bg.png") repeat;
+	background: #A8D3F3;
 }
 
 /* I like the color #8E2F8C and #80A437  */
 
 h3 {
-	color: #602054;
+	color: #8A2626;
 	font-family: 'Bitter', serif;
 	width: 200px;
 	padding: 10px;
@@ -30,8 +30,8 @@ h3 {
 	border: 10px solid #80A437;
 
 
-a {
-	text-decoration:none;
+a:link {
+	list-style:none;
 	color: #000;
 }
 
