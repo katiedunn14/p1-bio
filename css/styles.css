@@ -36,7 +36,11 @@ a:link {
 }
 
 
-
 ul {
 	list-style:none;
+}
+
+.me { 
+position: fixed;
+padding-left: 225px;
 }
