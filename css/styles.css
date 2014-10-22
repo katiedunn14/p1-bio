@@ -12,7 +12,7 @@ h1 {
 	font-family:'Rock Salt', serif;
 	width: 99%;
 	padding: 10px 0px 10px 10px;
-	background: #A8A8B2;
+	background-color: #A8A8B2;
 	margin: 0px 0px 0px 0px;
 }
 
@@ -22,7 +22,7 @@ h2 {
 	font-family: 'Bitter', serif;
 	width: 200px;
 	padding: 10px;
-	margin: 0px 0px 0px 100px;
+	margin: 0px 0px 0px 80px;
 	font-position: center;
 }
 
@@ -33,21 +33,40 @@ h3 {
 	font-family: 'Bitter', serif;
 	width: 200px;
 	padding: 10px;
-	margin: 0px 0px 0px 100px;
+	margin: 0px 0px 0px 80px;
 	font-position: center;
 }
 
 
 p {
 	font-family: 'Oxygen', sans-serif;
+	font-size: 18px;
+	color: #4B6987;
 }
 
 a:link {
 	list-style:none;
+	border-bottom: none;
+	text-decoration: none;
+	color: #8A2626;
+}
+
+a:hover {
+	border-bottom: 2px dotted #8A2626;
+	color: #8A2626;
+}
+
+a:active {
+	background: none;
+	color:#8A2626;
+}
+
+a:visited {
+	color: #4B6987;
 }
 
 
-ul {
+ul li {
 	list-style:none;
 	font-family: 'Oxygen', sans-serif;
 }
@@ -71,4 +90,11 @@ ul {
 
 #info {
 padding: 10px 10px 10px 10px;
+}
+
+footer {
+	text-align: center;
+	opacity: 50%; 
+	background-color: #A8A8B2;
+	color: #8A2626;
 }
