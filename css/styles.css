@@ -51,10 +51,6 @@ a:link {
 	color: #8A181D;
 }
 
-a:hover {
-	border-bottom: 2px dotted #8A2626;
-	color: #8A2626;
-}
 
 a:active {
 	background: none;
@@ -112,3 +108,10 @@ p footer {
 	color: #8A2626;
 }
 
+.visit {
+	padding-top: 20px;
+}
+
+.contact {
+	padding-top: 50px;
+}
