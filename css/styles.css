@@ -10,11 +10,15 @@ body{
 h1 {
 	color: #8A2626;
 	font-family:'Rock Salt', serif;
-	width: 99%;
-	padding: 10px 0px 10px 10px;
-	background-color: #A8A8B2;
+	padding: 10px 0px 20px 20px;
 	margin: 0px 0px 0px 0px;
+}
+
+header {
+	background-color: #A8A8B2;
+	width: 99%;
 	border-bottom: 10px dashed #A8D3F3;
+	size: 1000px;
 }
 
 
