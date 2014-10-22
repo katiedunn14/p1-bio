@@ -20,8 +20,7 @@ h1 {
 h2 {
 	color: #8A2626;
 	font-family: 'Bitter', serif;
-	width: 200px;
-	padding: 10px;
+	width: 200px;;
 	margin: 0px 0px 0px 80px;
 	font-position: center;
 }
@@ -77,8 +76,9 @@ ul li {
 
 
 #me img {
-		width: 550px;
-		padding-top: 20px;
+		width: 550px;;
+		border-bottom: 10px dashed #8A181D;
+		border-right: 10px dashed #8A181D;
 }
 
 
