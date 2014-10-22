@@ -1,13 +1,3 @@
-/* Your Website Styles */
-h1 {
-	color: #8A2626;
-	font-family: 'Bitter', serif;
-	width: 99%;
-	padding: 10px 0px 10px 10px;
-	background: #A8A8B2;
-	margin: 0px 0px 0px 0px;
-}
-/* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
@@ -16,7 +6,16 @@ body{
 	background: #4B6987;
 }
 
-/* I like the color #8E2F8C and #80A437  */
+
+h1 {
+	color: #8A2626;
+	font-family:'Rock Salt', serif;
+	width: 99%;
+	padding: 10px 0px 10px 10px;
+	background: #A8A8B2;
+	margin: 0px 0px 0px 0px;
+}
+
 
 h2 {
 	color: #8A2626;
@@ -26,6 +25,7 @@ h2 {
 	margin: 0px 0px 0px 100px;
 	font-position: center;
 }
+
 
 h3 {
 
@@ -38,6 +38,10 @@ h3 {
 }
 
 
+p {
+	font-family: 'Oxygen', sans-serif;
+}
+
 a:link {
 	list-style:none;
 }
@@ -45,11 +49,15 @@ a:link {
 
 ul {
 	list-style:none;
+	font-family: 'Oxygen', sans-serif;
 }
+
+
 
 #me { 
 	padding: 20px 0px 20px 20px;
 }
+
 
 #me img {
 		width: 550px;
@@ -59,6 +67,7 @@ ul {
 #box {
 	background:#A8D3F3;
 }
+
 
 #info {
 padding: 10px 10px 10px 10px;
