@@ -48,7 +48,7 @@ a:link {
 	list-style:none;
 	border-bottom: none;
 	text-decoration: none;
-	color: #8A2626;
+	color: #8A181D;
 }
 
 a:hover {
@@ -58,28 +58,32 @@ a:hover {
 
 a:active {
 	background: none;
-	color:#8A2626;
+	color:#8A181D;
 }
 
 a:visited {
-	color: #4B6987;
+	color: #8A181D;
 }
 
 
 ul li {
 	list-style:none;
 	font-family: 'Oxygen', sans-serif;
+	font-size: 16px;
+	color: #4B6987;
 }
-
 
 
 #me { 
 	padding: 20px 0px 20px 20px;
+	
 }
 
 
 #me img {
 		width: 550px;
+		border: 30px;
+	border-color:#8A2626;
 }
 
 
@@ -96,5 +100,9 @@ footer {
 	text-align: center;
 	opacity: 50%; 
 	background-color: #A8A8B2;
+	color: #8A2626;
+}
+
+p footer {
 	color: #8A2626;
 }
